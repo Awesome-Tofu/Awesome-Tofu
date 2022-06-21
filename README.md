@@ -1,5 +1,5 @@
 ![Awesome-Tofu](https://user-images.githubusercontent.com/91769994/174761789-220cc47f-5958-4dfd-b144-b1927dde4390.png)
-### Hi there 👋
+### Yo! (●'◡'●)
 
 <!--
 **Awesome-Tofu/Awesome-Tofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
