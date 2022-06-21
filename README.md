@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm interested in react.js
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Awesome-tofu)
