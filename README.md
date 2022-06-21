@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Awesome-tofu)
-<img alt="Cute Count" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
+
+<img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
 
