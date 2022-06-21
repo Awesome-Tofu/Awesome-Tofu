@@ -1,4 +1,4 @@
-![Awesome-Tofu](https://www.pinterest.ch/pin/693765517590597946/)
+![Awesome-Tofu](![image](https://user-images.githubusercontent.com/91769994/174761789-220cc47f-5958-4dfd-b144-b1927dde4390.png))
 ### Hi there 👋
 
 <!--
