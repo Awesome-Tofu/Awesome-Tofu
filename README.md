@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm interested in react.js
 
+[![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://adi-site.netlify.app/)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Awesome-tofu)
+
