@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on App dev
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about HTML and Deployment
-- 📫 How to reach me: adityaraj6311@gmail.com, [Telegram](https://t.me/Awesome_tofu) or [instagram](https://www.instagram.com/aditya.agatsuma/)
+- 📫 How to reach me: adityaraj6311@gmail.com, <a href="https://www.instagram.com/luna_fulgur/" target="_blank"><i class="fa fa-instagram " ></i></a> or [instagram](https://www.instagram.com/aditya.agatsuma/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm interested in react.js
 
