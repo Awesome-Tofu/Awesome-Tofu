@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 🙃 I'm 15 years old
 - 📫 How to reach me: adityaraj6311@gmail.com, [Telegram](https://telegram.me/Awesome_tofu) or [instagram](https://www.instagram.com/aditya.agatsuma)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm interested in react js
+- ⚡ Fun fact: I'm inspired by Terry A. Devis
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Awesome-tofu)
