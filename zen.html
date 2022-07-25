@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const api_url = 'https://raw.githubusercontent.com/Awesome-Tofu/wa-botAPIs/main/Just%20a%20json/zenitsu.json'
+        async function getIMG() {
+            const response = await fetch(api_url);
+            const data = await response.json();
+            let random = data[Math.floor(Math.random() * data.length)];
+            console.log(random.zen);
+        }
+        // const data = await response.json();
+        // console.log(data);
+        // }
+        getIMG();
+     </script>
+</body>
+</html>
