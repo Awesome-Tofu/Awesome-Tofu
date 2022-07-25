@@ -1,4 +1,4 @@
-<iframe src="https://awesome-tofu.github.io/Awesome-Tofu/" width="20%" height="15%"></iframe>
+[!AWEOSME_TOFU](https://awesome-tofu.github.io/iframe/)
 ### Yo! (●'◡'●)
 
 <!--
