@@ -1,4 +1,4 @@
-![Awesome-Tofu](https://user-images.githubusercontent.com/91769994/174761789-220cc47f-5958-4dfd-b144-b1927dde4390.png)
+![Awesome-Tofu](https://awesome-tofu.github.io/Awesome-Tofu/)
 ### Yo! (●'◡'●)
 
 <!--
