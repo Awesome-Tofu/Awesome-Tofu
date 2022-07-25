@@ -1,4 +1,4 @@
-[!AWEOSME_TOFU](https://awesome-tofu.github.io/iframe/)
+![Awesome-Tofu](https://awesome-tofu.github.io/iframe/)
 ### Yo! (●'◡'●)
 
 <!--
