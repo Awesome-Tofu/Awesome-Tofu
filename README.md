@@ -10,7 +10,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning JavaScript and Python
 - 🇮🇳 I'm from India
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about HTML and Deployment
 - 📚 I'm a student and these things are just my hobby
 - 🙃 I'm 15 years old
 - 📫 How to reach me: adityaraj6311@gmail.com, [Telegram](https://telegram.me/Awesome_tofu) or [instagram](https://www.instagram.com/aditya.agatsuma)
