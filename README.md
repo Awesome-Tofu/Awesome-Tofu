@@ -1,7 +1,11 @@
 
 ### Yo! (●'◡'●)
+<p align="center">
 
+  <a href="https://adi-site.netlify.app/"><img src="https://pbs.twimg.com/media/FR7p78pVgAA9A4L?format=jpg&name=large" alt="Tofu"></a>
 <!--
+<a href="https://telegram.me/awesome_tofu">
+
 **Awesome-Tofu/Awesome-Tofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
