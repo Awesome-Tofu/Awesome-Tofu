@@ -2,7 +2,7 @@
 ### Yo! (●'◡'●)
 <p align="center">
 
-  <a href="https://adi-site.netlify.app/"><img src="https://pbs.twimg.com/media/FR7p78pVgAA9A4L?format=jpg&name=large" alt="Tofu"></a>
+  <a href="https://adi-site.netlify.app/"><img src="https://te.legra.ph/file/fb663addafec75633f473.png" alt="Tofu"></a>
 <!--
 <a href="https://telegram.me/awesome_tofu">
 
