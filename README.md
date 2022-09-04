@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 🇮🇳 I'm from India
 - 🤔 I’m looking for help with Python
 - 📚 I'm a student and these things are just my hobby
-- 🙃 I'm 15 years old
+- 🙃 I'm 16 years old
 - 📫 How to reach me: adityaraj6311@gmail.com, [Telegram](https://telegram.me/Awesome_tofu) or [instagram](https://www.instagram.com/aditya.agatsuma)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm inspired by Terry A. Devis
