@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer student from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome-tofu&label=Profile%20views&color=0e75b6&style=flat" alt="awesome-tofu" /> </p>
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/bdf432b72b2a950ec243e6719d6e830d/a3354fcd8b556866-17/s540x810/39950d3d51db40e8a21b527c3a89e99963ceedbd.gifv">
 
 - 🔭 I’m currently working on **Social Bots**
 
@@ -30,8 +29,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aditya6313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aditya6313" /></a><a href="https://ko-fi.com/awesometofu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="awesometofu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome-tofu&show_icons=true&locale=en&layout=compact" alt="awesome-tofu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome-tofu&show_icons=true&locale=en&layout=compact" alt="awesome-tofu" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesome-tofu&show_icons=true&locale=en" alt="awesome-tofu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome-tofu&" alt="awesome-tofu" /></p>
+
+<h3 align="left">Cute Visitors Counter</h3>
+
+<img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
