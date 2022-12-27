@@ -19,7 +19,7 @@
 <a href="https://dev.to/awesometofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awesometofu" height="30" width="40" /></a>
 <a href="https://twitter.com/aditya_6313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_6313" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya.agatsuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.agatsuma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCIxkRVccLnW6cm7ZOSaJMAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/835169579185209355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abcd" height="30" width="40" /></a>
 </p>
 
