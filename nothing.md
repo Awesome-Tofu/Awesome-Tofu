@@ -29,12 +29,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aditya6313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aditya6313" /></a><a href="https://ko-fi.com/awesometofu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="awesometofu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome-tofu&show_icons=true&locale=en&layout=compact" alt="awesome-tofu" /></p><br>
+
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome-tofu&show_icons=true&locale=en&layout=compact" alt="awesome-tofu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesome-tofu&show_icons=true&locale=en" alt="awesome-tofu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome-tofu&" alt="awesome-tofu" /></p>
 
-<h3 align="left">Cute Visitors Counter</h3>
+<h3 align="left">Cute Visitor Counter</h3>
 
 <img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
