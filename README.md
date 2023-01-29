@@ -5,7 +5,7 @@
 
 
 <img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=3142kekn575v6zvkja5bllxv5tmy&cover_image=true&theme=default&show_offline=false&background_color=121212">
-
+<br>
 - 🔭 I’m currently working on **Social Bots**
 
 - 🌱 I’m currently learning **Python**
