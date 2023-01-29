@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
+
 <h3 align="center">A passionate frontend developer student from India</h3>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/bdf432b72b2a950ec243e6719d6e830d/a3354fcd8b556866-17/s540x810/39950d3d51db40e8a21b527c3a89e99963ceedbd.gifv">
+
+
+<img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=3142kekn575v6zvkja5bllxv5tmy&cover_image=true&theme=default&show_offline=false&background_color=121212">
 
 - 🔭 I’m currently working on **Social Bots**
 
@@ -12,7 +16,7 @@
 
 - 📫 How to reach me **adityaraj6311@gmail.com**
 
-- ⚡ Fun fact **I like Terry. A. Devis**
+- ⚡ Fun fact **My Inspiration is Terry. A. Devis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
