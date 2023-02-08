@@ -4,8 +4,8 @@
 <img align="left" alt="coding" width="400" src="https://64.media.tumblr.com/bdf432b72b2a950ec243e6719d6e830d/a3354fcd8b556866-17/s540x810/39950d3d51db40e8a21b527c3a89e99963ceedbd.gifv">
 
 
-<img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=3142kekn575v6zvkja5bllxv5tmy&cover_image=true&theme=default&show_offline=false&background_color=121212">
-<br><br>
+<!-- <img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=3142kekn575v6zvkja5bllxv5tmy&cover_image=true&theme=default&show_offline=false&background_color=121212">
+<br><br> -->
 
 
 - 🔭 I’m currently working on **Social Bots**
