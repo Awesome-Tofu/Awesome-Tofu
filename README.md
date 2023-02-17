@@ -27,7 +27,7 @@
 <a href="https://instagram.com/aditya.agatsuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.agatsuma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIxkRVccLnW6cm7ZOSaJMAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/835169579185209355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abcd" height="30" width="40" /></a>
-<a href="https://telegram.me/Awesome_tofu" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/telegram-app.png" alt="abcd" height="30" width="30" /></a>
+<a href="tg:resolve?domain=Awesome_tofu" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/telegram-app.png" alt="abcd" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
