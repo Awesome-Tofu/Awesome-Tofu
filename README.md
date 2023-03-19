@@ -46,4 +46,4 @@
 
 <h3 align="left">Cute Visitor Counter</h3>
 
-<img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
+<img alt="view counter:Error!" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
