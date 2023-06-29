@@ -8,9 +8,9 @@
 <br><br> -->
 
 
-- 🔭 I’m currently working on **Social Bots**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 My info website [https://aditya-info.me/](https://aditya-info.me/)
 
@@ -18,11 +18,9 @@
 
 - 📫 How to reach me **adityaraj6311@gmail.com**
 
-- ⚡ Fun fact **My Inspiration is Terry. A. Devis**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/awesometofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awesometofu" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/awesometofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awesometofu" height="30" width="40" /></a> -->
 <a href="https://twitter.com/aditya_6313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_6313" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya.agatsuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.agatsuma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIxkRVccLnW6cm7ZOSaJMAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi" height="30" width="40" /></a>
