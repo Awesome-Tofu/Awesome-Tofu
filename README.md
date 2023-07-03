@@ -14,9 +14,11 @@
 
 - 👨‍💻 My info website [https://aditya-info.me/](https://aditya-info.me/)
 
-- 💬 Ask me about **frontend website development**
+- 💬 Ask me about **frontend website development & nodejs**
 
 - 📫 How to reach me **adityaraj6311@gmail.com**
+
+- ⚡ Fun fact:  **Bugs r useful sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
