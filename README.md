@@ -8,7 +8,7 @@
 <br><br> -->
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Web development, bot develeopment and APIs**
 
 - 🌱 I’m currently learning **JavaScript**
 
