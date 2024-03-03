@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web development, [bot develeopment](https://github.com/Awesome-Tofu/miko-bot) and APIs**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **nodejs and APIs**
 
