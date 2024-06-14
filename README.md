@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Awesome-Tofu/Awesome-Tofu/main/cute-cat-unscreen.gif" width="70"/>
-  <a href="https://github.com/Awesome-tofu"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=500&random=false&width=690&lines=Hi%2C+I+am+Aditya;Hope+you're+doing+well;Passionate+about+coding+and+exploring+new+tech;Feel+free+to+check+out+my+projects+and+connect!+Keep+coding%2C+stay+curious!%F0%9F%9A%80"/></a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20developer;Self%20taught%20software%20developer;Always%20learning%20new%20things;Feel%20free%20to%20check%20out%20my%20work&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- <h3 align="center">I'm from India</h3> -->
