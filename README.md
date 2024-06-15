@@ -33,7 +33,7 @@ Fun fact: **Bugs r useful sometimes**
 <details>
     <summary>Skills</summary>
     <p align="center">
-        <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,rust,json,markdown&theme=darkmode&frameworks=react,bootstrap,tailwind,express&tools=git,docker,npm,mongodb,vercel,nodejs,heroku&software=linux,windows,vscode" align="center" alt="Languages" />
+        <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,rust,json,markdown&frameworks=react,bootstrap,tailwind,express&tools=git,docker,npm,mongodb,vercel,nodejs,heroku&software=linux,windows,vscode&theme=darkmode&includeNames=true" align="center" alt="Languages" />
     </p>
 </details>
 
